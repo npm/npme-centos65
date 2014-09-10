@@ -68,7 +68,7 @@ lab.experiment('Service', function() {
       var service = new Service({
         util: {
           exec: function(command, opts, cb) {
-            Lab.expect(command).to.eql('sudo chown -R npme:npme /etc/npme/node_modules/*')
+            Lab.expect(command).to.eql('sudo chown -R npme:npme /etc/npme/node_modules')
             done();
           }
         }
