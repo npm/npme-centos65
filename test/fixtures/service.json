@@ -60,7 +60,7 @@
     "--front-door-host": "http://127.0.0.1:8080",
     "--white-list-path": "/home/ubuntu/whitelist",
     "--github-host": "https://api.github.com",
-    "--binary-directory": "/home/npme/packages",
+    "--binary-directory": "/home/ubuntu/packages",
     "--auth-fetch": "false",
     "--shared-fetch-secret": "change-me-to-a-secure-token"
   }

@@ -1,6 +1,6 @@
 {
   "name": "npme-centos65",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "npmE one-step-install for Centos 6.5",
   "main": "lib/index.js",
   "scripts": {
