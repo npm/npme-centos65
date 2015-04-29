@@ -4,7 +4,7 @@
   "description": "npmE one-step-install for Centos 6.5",
   "main": "lib/index.js",
   "scripts": {
-    "test": "lab -c --timeout=8000"
+    "test": "lab -c --timeout 8000"
   },
   "repository": {
     "type": "git",
@@ -24,6 +24,6 @@
     "bluebird": "^2.3.2",
     "chalk": "^0.5.1",
     "lodash": "^2.4.1",
-    "npme-ansible": "^1.0.6"
+    "npme-ansible": "^2.0.0"
   }
 }
